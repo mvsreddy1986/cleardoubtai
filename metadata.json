@@ -1,0 +1,6 @@
+{
+  "name": "CleardoubtAI",
+  "description": "An ultra-supportive, private, and ad-free educational companion for shy students to ask doubts safely and easily across any subject in the world. Founded by Shanmuka.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
